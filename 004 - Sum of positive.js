@@ -19,4 +19,4 @@
 const positiveSum = arr => arr.reduce((total, anggota) => (anggota > 0) ? total + anggota : total, 0); 
 
 
-console.log(positiveSum([]));
+console.log(positiveSum([-1,-2,-3,-4, 7]));
