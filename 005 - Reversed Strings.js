@@ -1,3 +1,6 @@
+// 005 - Convert boolean values to strings 'Yes' or 'No'.
+// https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+
 // function solution(str){
 //   let resalt = '';
 //   for(let i = str.length; i>0; i--){
